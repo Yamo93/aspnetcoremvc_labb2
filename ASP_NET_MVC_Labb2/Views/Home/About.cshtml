@@ -1,0 +1,10 @@
+﻿
+@{
+    ViewData["Title"] = "Om sidan";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h3>@(ViewBag.Username != null ? $"Välkommen, {ViewBag.Username}!" : "Välkommen!")</h3>
+
+<p>Den här applikationen hanterar skoluppgifter. Man kan skapa uppgifter och hålla koll på dem, samt bocka av dem när de är färdiga.</p>

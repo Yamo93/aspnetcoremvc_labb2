@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "430c15d8758518c0",
+    "Name": "En kurs",
+    "CourseName": "Kurs!sssssz",
+    "IsCompleted": false,
+    "CreatedAt": "0001-01-01T00:00:00",
+    "UpdatedAt": "2020-02-05T21:21:43.2337716+01:00"
+  },
+  {
+    "Id": "f1cf3caec43fac16",
+    "Name": "Test",
+    "CourseName": "Testarrrrrrrr",
+    "IsCompleted": false,
+    "CreatedAt": "0001-01-01T00:00:00",
+    "UpdatedAt": "2020-02-05T21:27:48.9761665+01:00"
+  },
+  {
+    "Id": "3790e3f278bfde8f",
+    "Name": "TTTT",
+    "CourseName": "Hahahaaaa",
+    "IsCompleted": false,
+    "CreatedAt": "0001-01-01T00:00:00",
+    "UpdatedAt": "2020-02-05T21:18:34.2921455+01:00"
+  }
+]

@@ -1,0 +1,73 @@
+﻿@model ASP_NET_MVC_Labb2.Models.TaskModel
+
+@{
+    ViewData["Title"] = "Uppgifter";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h3>@(ViewBag.Username != null ? $"Välkommen, {ViewBag.Username}!" : "Välkommen!")</h3>
+
+@if (ViewBag.Tasks.Count == 0)
+{
+    <h4>Inga uppgifter har lagts till än.</h4>
+}
+else
+{
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th scope="col">Namn</th>
+                <th scope="col">Kursnamn</th>
+                <th scope="col">Skapad</th>
+                <th scope="col">Uppdaterad</th>
+                <th scope="col">Uppdatera</th>
+                <th scope="col">Radera</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var task in ViewBag.Tasks)
+        {
+            <tr>
+                <th>@task.Name</th>
+                <td>@task.CourseName</td>
+                <td>@task.CreatedAt</td>
+                <td>@(task.UpdatedAt ?? "")</td>
+                <td>
+                    <button class="btn btn-primary" onclick="openUpdateModal('@task.Id')">Uppdatera</button>
+                </td>
+                <td>
+                    <button class="btn btn-danger" onclick="openDeleteModal('@task.Id')">Radera</button>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+
+<p>@ViewBag.SessionText</p>
+
+<form asp-controller="Home" asp-action="Tasks" method="post" class="mt-4">
+<h3>Lägg till uppgift:</h3>
+    <div class="form-group row">
+        <div class="col-md-6">
+            <label class="col-form-label" asp-for="Name"></label>
+            <input class="form-control" asp-for="Name" />
+            <span class="text-danger" asp-validation-for="Name"></span>
+        </div>
+        <div class="col-md-6">
+            <label class="col-form-label" asp-for="CourseName"></label>
+            <input class="form-control" asp-for="CourseName" />
+            <span class="text-danger" asp-validation-for="CourseName"></span>
+        </div>
+    </div>
+    <input class="btn btn-primary" type="submit" value="Lägg till" />
+</form>
+
+<partial name="~/Views/Shared/_UpdateTaskModal.cshtml" />
+<partial name="~/Views/Shared/_DeleteTaskModal.cshtml" />
+
+<script>
+    var tasks = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(ViewBag.Tasks));
+</script>
+<script src="~/js/tasks.js"></script>

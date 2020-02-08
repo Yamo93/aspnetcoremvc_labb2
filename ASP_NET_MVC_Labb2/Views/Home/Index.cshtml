@@ -1,0 +1,22 @@
+﻿
+@model ASP_NET_MVC_Labb2.Models.UsernameModel
+@{
+    ViewData["Title"] = "Startsida";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h3>@(ViewBag.Username != null ? $"Välkommen, {ViewBag.Username}!" : "Välkommen!")</h3>
+
+<p class="lead">@ViewData["BriefInfo"]</p>
+
+<blockquote class="blockquote text-center">
+    <p class="mb-0">
+        “The mind, once stretched by a new idea, never
+        regains its original dimensions.”
+    </p>
+    <footer class="blockquote-footer">Oliver Wendell Holmes</footer>
+</blockquote>
+
+
+<partial name="~/Views/Shared/_SaveUsernameModal.cshtml" />
