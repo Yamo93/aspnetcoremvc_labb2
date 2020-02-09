@@ -11,9 +11,6 @@ namespace ASP_NET_MVC_Labb2.Controllers
 {
     public class HomeController : Controller
     {
-        public HomeController()
-        {
-        }
         public IActionResult Index()
         {
             ViewBag.Username = HttpContext.Session.GetString("username");
