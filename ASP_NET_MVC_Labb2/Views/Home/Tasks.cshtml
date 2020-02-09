@@ -8,16 +8,18 @@
 
 <h3>@(ViewBag.Username != null ? $"Välkommen, {ViewBag.Username}!" : "Välkommen!")</h3>
 
-@if (ViewBag.Tasks.Count == 0)
+@if (ViewBag.Tasks != null && ViewBag.Tasks.Count == 0)
 {
     <h4>Inga uppgifter har lagts till än.</h4>
 }
-else
+else if (ViewBag.Tasks != null && ViewBag.Tasks.Count > 0)
 {
-    <table class="table table-hover">
+    <table class="table table-hover task-table">
         <thead>
             <tr>
+                <th></th>
                 <th scope="col">Namn</th>
+                <th scope="col">Status</th>
                 <th scope="col">Kursnamn</th>
                 <th scope="col">Skapad</th>
                 <th scope="col">Uppdaterad</th>
@@ -26,21 +28,29 @@ else
             </tr>
         </thead>
         <tbody>
-        @foreach (var task in ViewBag.Tasks)
-        {
-            <tr>
-                <th>@task.Name</th>
-                <td>@task.CourseName</td>
-                <td>@task.CreatedAt</td>
-                <td>@(task.UpdatedAt ?? "")</td>
-                <td>
-                    <button class="btn btn-primary" onclick="openUpdateModal('@task.Id')">Uppdatera</button>
-                </td>
-                <td>
-                    <button class="btn btn-danger" onclick="openDeleteModal('@task.Id')">Radera</button>
-                </td>
-            </tr>
-        }
+            @foreach (var task in ViewBag.Tasks)
+            {
+                <tr>
+                    <td>
+                        <form id="finish-form-@task.Id" asp-controller="FinishTask" asp-action="Tasks" method="post">
+                            <input type="checkbox" checked="@task.IsCompleted" onchange="checkTheBox('@task.Id', '@task.IsCompleted')" />
+                            <input type="hidden" asp-for="Id" value="@task.Id" />
+                            <input type="hidden" asp-for="IsCompleted" />
+                        </form>
+                    </td>
+                    <th>@task.Name</th>
+                    <td>@(task.IsCompleted ? "Färdig" : "Ej färdig")</td>
+                    <td>@task.CourseName</td>
+                    <td>@task.CreatedAt</td>
+                    <td>@(task.UpdatedAt ?? "")</td>
+                    <td>
+                        <button class="btn btn-primary" onclick="openUpdateModal('@task.Id')">Uppdatera</button>
+                    </td>
+                    <td>
+                        <button class="btn btn-danger" onclick="openDeleteModal('@task.Id')">Radera</button>
+                    </td>
+                </tr>
+            }
         </tbody>
     </table>
 }
@@ -48,7 +58,7 @@ else
 <p>@ViewBag.SessionText</p>
 
 <form asp-controller="Home" asp-action="Tasks" method="post" class="mt-4">
-<h3>Lägg till uppgift:</h3>
+    <h3>Lägg till uppgift:</h3>
     <div class="form-group row">
         <div class="col-md-6">
             <label class="col-form-label" asp-for="Name"></label>
@@ -57,8 +67,11 @@ else
         </div>
         <div class="col-md-6">
             <label class="col-form-label" asp-for="CourseName"></label>
-            <input class="form-control" asp-for="CourseName" />
+            <select class="form-control" asp-for="CourseName" asp-items="Model.Courses"></select>
             <span class="text-danger" asp-validation-for="CourseName"></span>
+            @*<label class="col-form-label" asp-for="CourseName"></label>
+        <input class="form-control" asp-for="CourseName" />
+        <span class="text-danger" asp-validation-for="CourseName"></span>*@
         </div>
     </div>
     <input class="btn btn-primary" type="submit" value="Lägg till" />

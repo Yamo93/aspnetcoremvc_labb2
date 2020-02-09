@@ -18,3 +18,12 @@ function openDeleteModal(id) {
     $('#deleteTaskModal #coursename').text(foundTask.CourseName);
     $('#deleteTaskModal #Id').val(id);
 }
+
+function checkTheBox(id, currentState) {
+    if (currentState === 'True') {
+        document.querySelector('#finish-form-' + id + ' #IsCompleted').value = false;
+    } else if (currentState === 'False') {
+        document.querySelector('#finish-form-' + id + ' #IsCompleted').value = true;
+    }
+    document.querySelector('#finish-form-' + id).submit();
+}

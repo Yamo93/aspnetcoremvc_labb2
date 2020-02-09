@@ -1,4 +1,6 @@
 ﻿
+@model ASP_NET_MVC_Labb2.Models.InformationViewModel
+
 @{
     ViewData["Title"] = "Om sidan";
 }
@@ -7,4 +9,4 @@
 
 <h3>@(ViewBag.Username != null ? $"Välkommen, {ViewBag.Username}!" : "Välkommen!")</h3>
 
-<p>Den här applikationen hanterar skoluppgifter. Man kan skapa uppgifter och hålla koll på dem, samt bocka av dem när de är färdiga.</p>
+<p>@Model.InformationalText</p>

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
@@ -22,5 +23,11 @@ namespace ASP_NET_MVC_Labb2.Models
         {
             IsCompleted = false;
         }
+
+        public List<SelectListItem> Courses { get; } = new List<SelectListItem>
+        {
+            new SelectListItem { Value = "ASP.NET med C#", Text = "DT102G - ASP.NET med C#" },
+            new SelectListItem { Value = "Affärsplaner och kommersialisering", Text = "IG021G - Affärsplaner och kommersialisering" }
+        };
     }
 }

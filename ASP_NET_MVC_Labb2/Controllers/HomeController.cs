@@ -40,34 +40,37 @@ namespace ASP_NET_MVC_Labb2.Controllers
             var jsonStr = System.IO.File.ReadAllText("tasks.json");
             var jsonObj = JsonConvert.DeserializeObject<List<TaskModel>>(jsonStr);
             ViewBag.Tasks = jsonObj;
-            return View();
+            var taskModel = new TaskModel();
+            return View(taskModel);
         }
 
 
         [HttpPost("/uppgifter")]
         public IActionResult Tasks(TaskModel taskModel)
         {
+            ViewBag.Username = HttpContext.Session.GetString("username");
+            var jsonStr = System.IO.File.ReadAllText("tasks.json");
+            var jsonObj = JsonConvert.DeserializeObject<List<TaskModel>>(jsonStr);
+
             if (ModelState.IsValid)
             {
                 taskModel.Id = GenerateId();
                 taskModel.CreatedAt = DateTime.Now;
-                var jsonStr = System.IO.File.ReadAllText("tasks.json");
-                var jsonObj = JsonConvert.DeserializeObject<List<TaskModel>>(jsonStr);
                 jsonObj.Add(taskModel);
-                ViewBag.Tasks = jsonObj;
                 System.IO.File.WriteAllText("tasks.json", JsonConvert.SerializeObject(jsonObj, Formatting.Indented));
-
                 ModelState.Clear();
             }
-
-            return View("Tasks");
+            ViewBag.Tasks = jsonObj;
+            var task = new TaskModel();
+            return View(task);
         }
 
         [HttpGet("/om")]
         public IActionResult About()
         {
             ViewBag.Username = HttpContext.Session.GetString("username");
-            return View();
+            var info = new InformationViewModel { InformationalText = "Den här applikationen hanterar skoluppgifter. Man kan skapa uppgifter och hålla koll på dem, samt bocka av dem när de är färdiga." };
+            return View(info);
         }
 
         private string GenerateId()

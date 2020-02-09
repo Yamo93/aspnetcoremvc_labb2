@@ -1,26 +1,2446 @@
 [
   {
-    "Id": "430c15d8758518c0",
-    "Name": "En kurs",
-    "CourseName": "Kurs!sssssz",
+    "Id": "4b13f8b2012a0d4",
+    "Name": "Spela in presentation",
+    "CourseName": "ASP.NET med C#",
     "IsCompleted": false,
-    "CreatedAt": "0001-01-01T00:00:00",
-    "UpdatedAt": "2020-02-05T21:21:43.2337716+01:00"
+    "CreatedAt": "2020-02-08T10:22:08.7519302+01:00",
+    "UpdatedAt": null,
+    "Courses": [
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      }
+    ]
   },
   {
-    "Id": "f1cf3caec43fac16",
-    "Name": "Test",
-    "CourseName": "Testarrrrrrrr",
-    "IsCompleted": false,
-    "CreatedAt": "0001-01-01T00:00:00",
-    "UpdatedAt": "2020-02-05T21:27:48.9761665+01:00"
+    "Id": "285e9ac6be931d34",
+    "Name": "Skriv rapport",
+    "CourseName": "ASP.NET med C#",
+    "IsCompleted": true,
+    "CreatedAt": "2020-02-08T10:23:24.5373154+01:00",
+    "UpdatedAt": null,
+    "Courses": [
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      }
+    ]
   },
   {
-    "Id": "3790e3f278bfde8f",
-    "Name": "TTTT",
-    "CourseName": "Hahahaaaa",
-    "IsCompleted": false,
-    "CreatedAt": "0001-01-01T00:00:00",
-    "UpdatedAt": "2020-02-05T21:18:34.2921455+01:00"
+    "Id": "99d060832905dcb7",
+    "Name": "Lämna in Labb 2",
+    "CourseName": "ASP.NET med C#",
+    "IsCompleted": true,
+    "CreatedAt": "2020-02-08T10:23:32.8227036+01:00",
+    "UpdatedAt": "2020-02-08T10:25:28.1700956+01:00",
+    "Courses": [
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      }
+    ]
+  },
+  {
+    "Id": "55ee9708af75f630",
+    "Name": "En annan uppgift",
+    "CourseName": "Affärsplaner och kommersialisering",
+    "IsCompleted": true,
+    "CreatedAt": "2020-02-08T16:26:28.7678082+01:00",
+    "UpdatedAt": null,
+    "Courses": [
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      }
+    ]
+  },
+  {
+    "Id": "59fe036060931100",
+    "Name": "En uppgift!",
+    "CourseName": "ASP.NET med C#",
+    "IsCompleted": true,
+    "CreatedAt": "2020-02-09T09:32:09.2838415+01:00",
+    "UpdatedAt": "2020-02-09T09:33:07.6723765+01:00",
+    "Courses": [
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "DT102G - ASP.NET med C#",
+        "Value": "ASP.NET med C#"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "IG021G - Affärsplaner och kommersialisering",
+        "Value": "Affärsplaner och kommersialisering"
+      }
+    ]
   }
 ]

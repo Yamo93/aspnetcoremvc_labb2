@@ -9,19 +9,18 @@ using Microsoft.AspNetCore.Http;
 
 namespace ASP_NET_MVC_Labb2.Controllers
 {
-    public class UpdateTaskController : Controller
+    public class FinishTaskController : Controller
     {
         public IActionResult Tasks(TaskModel taskModel)
         {
-            if (ModelState.IsValid)
+            if (taskModel.Id != null && taskModel.IsCompleted != null)
             {
-                taskModel.UpdatedAt = DateTime.Now;
                 var jsonStr = System.IO.File.ReadAllText("tasks.json");
                 var jsonObj = JsonConvert.DeserializeObject<List<TaskModel>>(jsonStr);
                 // Uppdaterar uppgiften vid indexet
                 var foundTask = jsonObj[jsonObj.FindIndex(i => i.Id == taskModel.Id)];
-                taskModel.CreatedAt = foundTask.CreatedAt;
-                jsonObj[jsonObj.FindIndex(i => i.Id == taskModel.Id)] = taskModel;
+                foundTask.IsCompleted = taskModel.IsCompleted;
+                jsonObj[jsonObj.FindIndex(i => i.Id == taskModel.Id)] = foundTask;
                 ViewBag.Tasks = jsonObj;
                 System.IO.File.WriteAllText("tasks.json", JsonConvert.SerializeObject(jsonObj, Formatting.Indented));
 

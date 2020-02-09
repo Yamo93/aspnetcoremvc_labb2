@@ -19,7 +19,7 @@
                         </div>
                         <div class="col-md-6">
                             <label class="col-form-label" asp-for="CourseName"></label>
-                            <input class="form-control" asp-for="CourseName" />
+                            <select class="form-control" asp-for="CourseName" asp-items="Model.Courses"></select>
                             <span class="text-danger" asp-validation-for="CourseName"></span>
                         </div>
                     </div>
